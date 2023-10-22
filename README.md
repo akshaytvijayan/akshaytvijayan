@@ -3,7 +3,7 @@
 <!--
 **akshaytvijayan/akshaytvijayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 # 💫 About Me:
 🔭 I'm currently working on tech, obviously<br>🌱 I'm currently learning how to cope with ugly code<br>👯 I'm looking to collaborate on where I could help<br>🤝 I'm looking for help with escaping earth<br>💬 Ask me about anything tech<br>⚡ Fun fact- still im a Student
