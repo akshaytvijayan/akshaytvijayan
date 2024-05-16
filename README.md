@@ -25,8 +25,5 @@ Here are some ideas to get you started:-->
 ---
 [![](https://visitcount.itsvg.in/api?id=akshaytvijayan&icon=7&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/akshaytvijayan) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
